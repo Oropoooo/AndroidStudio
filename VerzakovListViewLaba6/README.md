@@ -1,20 +1,32 @@
-# ListView
-Это первое приложение из 6 практической.
+# Project Title
+Simple overview of use/purpose.
+## Description
+An in-depth paragraph about your ptoject and overview of use.
+## Getting Started
+### Dependencies
+---
+* Describe any prerequisites, libraries, OS version, etc, needed before installing program.
+* ex. Windows 10
+---
+### Installing
+---
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+---
+### Executing program
+---
+* How to run the program
+* Step-by-step bullets
+---
+  code blocks for commands
+ 
+## Help
+Any advise for common problems or issues.
+  command ot run if program contains helper info
+ 
+## Authors
+---
+Contributor names and contact info
 
-## Начало работы
-
-Вот так вот делай и сможешь запустить проект.
-
-### Предварительные требования
-
-Что вам нужно установить на компьютере:
-
-- Bla bla bla bla (now on eng language)
-- Ещё больше Бла Бла Бла (mne bilo len eto menyat)
-
-### Установка и запуск
-
-Пошаговая инструкция о том, как получить копию проекта и запустить его на своём пк.
-
-1. Скачайте zip-файл проекта
-2. Откройте файл в android studio
+#### :point_right:[YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ):point_left:
+---
